@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574534432743",
+    "project_id": "zavvi-2cafc",
+    "storage_bucket": "zavvi-2cafc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574534432743:android:f0317235032c0bf0fb6f42",
+        "android_client_info": {
+          "package_name": "com.zavvi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmQHrc5aYGEVT2pXtB-7no_5V4ulP3ggo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
